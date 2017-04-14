@@ -2,3 +2,15 @@
 *.tmp
 *.ipynb_checkpoints
 *.gitattributes
+*.dsp
+*.ncb
+*.plg
+*.dsw
+*.opt
+Debug
+*.exe
+*.ilk
+*.obj
+*.pch
+*.pdb
+*.idb
