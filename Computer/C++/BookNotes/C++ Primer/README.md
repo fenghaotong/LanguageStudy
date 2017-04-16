@@ -7,7 +7,7 @@ notes by htfeng
 - [X] [Chapter1开始](Chapter1.ipynb)
 
 ##### 第一部分  C++基础
-- [] [Chapter2变量和基本类型](Chapter2.ipynb)
+- [X] [Chapter2变量和基本类型](Chapter2.ipynb)
 - [] [Chapter3字符串、向量和数组](Chapter3.ipynb)
 - [] [Chapter4表达式](Chapter4.ipynb)
 - [] [Chapter5语句](Chapter5.ipynb)
