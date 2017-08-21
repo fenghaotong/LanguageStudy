@@ -5,7 +5,7 @@
  * Date: 2017-08-20
  * Time: 15:40
  *
- * The purpose of this code is to test "try...catch".
+ *  The code is the answer to exercise 23 of the fifth chapter about the book "C++ Primer, Fifth Edition".
  *
  * If you have any question,please contact me.
  * 
@@ -15,26 +15,33 @@
 #include <iostream>
 #include <stdexcept>
 #include <string>
-#include <vector>
-#include "Sal--es_item.h"
 
 using namespace::std;
 
 int main(){
-	Sales_item item1,item2;
 
-	while(cin >> item1 >> item2){
+	int a,b,c;
+
+	while(1){
+
+		cin >> a;
+		cin >> b;
+
 		try{
-			if (item1.isbn() != item2.isbn())
-				throw runtime_error("Data must refer to same ISBN");
-			cout << item1 + item2 << endl;
+			if(b == 0)
+				throw runtime_error("Data b input error");
+			c = a/b;
+
 		}catch(runtime_error err){
-			cout << err.what()
-				 << "\nTry again?Enter y or n:" << endl;
-			char c;
-			cin >> c;
-			if(!cin || c == 'n')
+			cout << "\nerror!Try again? Enter y or n:" <<endl;
+			char i;
+			cin >> i;
+			if (!cin || i == 'n')
 				break;
 		}
 	}
+
+	cout << c << endl;
+	
+    return 0;
 }
