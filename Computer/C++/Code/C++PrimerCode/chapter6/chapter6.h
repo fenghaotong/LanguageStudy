@@ -11,6 +11,7 @@
  * 
  * Email:1054708869@qq.com
 */ 
+#pragma GCC diagnostic error "-std=c++11" 
 #include <iostream>  
 #include <string>  
 #include <vector>  
@@ -22,3 +23,6 @@ int fun();
 int swit(int &i, int &j);
 bool myReset(const string &s); //have or not capital letter
 string myReset1(string &s); //capital to small letter
+string compare(string a,string *b);
+int swit(int* &a,int* &b);
+int factorial(vector<int> v,int x);
