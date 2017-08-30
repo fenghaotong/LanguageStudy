@@ -14,3 +14,4 @@ Debug
 *.pch
 *.pdb
 *.idb
+*.sh
