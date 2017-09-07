@@ -11,7 +11,6 @@
  * 
  * Email:1054708869@qq.com
 */ 
-#pragma GCC diagnostic error "-std=c++11"  
 #include <iostream>
 #include <string>
 #include "chapter6.h"

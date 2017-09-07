@@ -8,11 +8,11 @@ notes by htfeng
 
 ##### 第一部分  C++基础
 - [X] [Chapter2变量和基本类型](Chapter2.ipynb)
-- [] [Chapter3字符串、向量和数组](Chapter3.ipynb)
-- [] [Chapter4表达式](Chapter4.ipynb)
-- [] [Chapter5语句](Chapter5.ipynb)
-- [] [Chapter6函数](Chapter6.ipynb)
-- [] [Chapter7类](Chapter7.ipynb)
+- [X] [Chapter3字符串、向量和数组](Chapter3.ipynb)
+- [X] [Chapter4表达式](Chapter4.ipynb)
+- [X] [Chapter5语句](Chapter5.ipynb)
+- [X] [Chapter6函数](Chapter6.ipynb)
+- [X] [Chapter7类](Chapter7.ipynb)
 
 ##### 第二部分   C++标准库
 - [] [Chapter8IO库](Chapter8.ipynb)
