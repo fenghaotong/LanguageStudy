@@ -1,0 +1,44 @@
+# Matplotlib2.02 中文文档
+
+notebook@htfeng
+
+- 介绍
+- 安装
+    - 安装预建的包
+    - 从源代码安装
+- 教程
+    - 导言
+    - 中间
+    - 先进的
+- 处理文本
+    - 文字介绍
+    - 基本文本命令
+    - 文本属性和布局
+    - 默认字体
+    - 注释
+    - 写作的数学表达式
+    - 文本呈现与乳胶
+    - 排版与 XeLaTeX/LuaLaTeX
+- 颜色
+    - 指定颜色
+    - 选择色彩
+    - 映射规范
+- 自定义 matplotlib
+    - 使用样式表
+    - matplotlib rcParams
+- 交互式的情节
+    - 交互式导航
+    - 在 python 中使用 matplotlib
+    - 事件处理和领料
+- 选择的例子
+    - 屏幕截图
+    - 我们最喜欢的食谱
+- 什么是 matplotlib 中的新增功能
+    - Matplotlib 2.0 中的新增功能
+    - 以前是什么新
+- GitHub 统计
+- 许可证
+    - 版权政策
+    - Matplotlib 2.0.2 的许可协议
+    - Matplotlib 1.3.0 版本的许可协议
+- 学分
