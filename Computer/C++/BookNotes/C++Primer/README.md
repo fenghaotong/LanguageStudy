@@ -15,8 +15,8 @@ notes by htfeng
 - [X] [Chapter7类](Chapter7.ipynb)
 
 ##### 第二部分   C++标准库
-- [] [Chapter8IO库](Chapter8.ipynb)
-- [] [Chapter9顺序容器](Chapter9.ipynb)
+- [X] [Chapter8IO库](Chapter8.ipynb)
+- [X] [Chapter9顺序容器](Chapter9.ipynb)
 - [] [Chapter10泛型算法](Chapter10.ipynb)
 - [] [Chapter11关联容器](Chapter11.ipynb)
 - [] [Chapter12动态内存](Chapter12.ipynb)

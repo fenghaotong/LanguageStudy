@@ -1,0 +1,6 @@
+AccountsConfig	apps.py	/^class AccountsConfig(AppConfig):$/;"	c
+name	apps.py	/^    name = 'accounts'$/;"	v	class:AccountsConfig
+UserRegistrationView	views.py	/^class UserRegistrationView(CreateView):$/;"	c
+form_class	views.py	/^    form_class = UserCreationForm$/;"	v	class:UserRegistrationView
+template_name	views.py	/^    template_name = 'user_registration.html'$/;"	v	class:UserRegistrationView
+get_success_url	views.py	/^    def get_success_url(self):$/;"	m	class:UserRegistrationView
