@@ -1,44 +1,38 @@
-# Matplotlib2.02 中文文档
+# Matplotlib文档和实例
 
 notebook@htfeng
 
-- 介绍
-- 安装
-    - 安装预建的包
-    - 从源代码安装
-- 教程
-    - 导言
-    - 中间
-    - 先进的
-- 处理文本
-    - 文字介绍
-    - 基本文本命令
-    - 文本属性和布局
-    - 默认字体
-    - 注释
-    - 写作的数学表达式
-    - 文本呈现与乳胶
-    - 排版与 XeLaTeX/LuaLaTeX
-- 颜色
-    - 指定颜色
-    - 选择色彩
-    - 映射规范
-- 自定义 matplotlib
-    - 使用样式表
-    - matplotlib rcParams
-- 交互式的情节
-    - 交互式导航
-    - 在 python 中使用 matplotlib
-    - 事件处理和领料
-- 选择的例子
-    - 屏幕截图
-    - 我们最喜欢的食谱
-- 什么是 matplotlib 中的新增功能
-    - Matplotlib 2.0 中的新增功能
-    - 以前是什么新
-- GitHub 统计
-- 许可证
-    - 版权政策
-    - Matplotlib 2.0.2 的许可协议
-    - Matplotlib 1.3.0 版本的许可协议
-- 学分
+- [介绍](介绍.ipynb)
+- [安装](安装.ipynb)
+- [教程](教程.ipybn)
+- [处理文本](处理文本.ipynb)
+- [颜色](颜色.ipynb)
+- [自定义matplotlib](自定义matplotlib.ipynb)
+- [交互式的情节](交互式的情节.ipynb)
+- 例子     
+	- [散点图的人口统计数据](Example/example_1.ipynb)      
+  - [随着时间的推移，美国的第一次婚姻 E7.2 中位数年龄](Example/example_2.ipynb)  
+  - [人口变化在 5 个美国城市](Example/example_3.ipynb)  
+  - [的指数衰减的生存期](Example/example_4.ipynb)  
+  - [刻度线标记自定义](Example/example_5.ipynb)  
+  - [Fledging 鸟权重](Example/example_6.ipynb)  
+  - [莫比 · 迪克 E7.7 字母频率](Example/example_7.ipynb)  
+  - [在德国的可再生能源 ](Example/example_8.ipynb) 
+  - [饼图中的温室气体排放](Example/example_9.ipynb)  
+  - [一维扩散方程](Example/example_10.ipynb)  
+  - [Ganged 情节](Example/example_11.ipynb)  
+  - [箭头样式](Example/example_12.ipynb)  
+  - [股价注明情节](Example/example_13.ipynb)  
+  - [使用 ax.vlines 和 ax.hlines](Example/example_14.ipynb)  
+  - [描绘的电磁波谱](Example/example_15.ipynb)  
+  - [BMI 数据与信心椭圆](Example/example_16.ipynb)  
+  - [一些五颜六色的形状](Example/example_17.ipynb)  
+  - [静电势的电偶极子](Example/example_18.ipynb) 
+  - [简单等高线图](Example/example_19.ipynb) 
+  - [可视化与 imshow 矩阵 ](Example/example_20.ipynb) 
+  - [巴恩斯利芬](Example/example_21.ipynb)  
+  - [热图的波士顿温度](Example/example_22.ipynb)  
+  - [二维扩散方程](Example/example_23.ipynb)  
+  - [表面情节简单](Example/example_24.ipynb)  
+  -  [环](Example/example_25.ipynb)  
+  - [描绘螺旋](Example/example_26.ipynb)  
