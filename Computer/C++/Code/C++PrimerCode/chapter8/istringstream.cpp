@@ -45,11 +45,12 @@ int main(int argc,char **argv){
 				formatted << " " << format(nums);
 			}
 		}
+		if(badNums.str().empty())
+			cout << entry.name << " " << formatted.str() << endl;
+		else
+			cerr << "input error: " << entry.name << " invalid number(s)" << badNums.str() << endl;
 	}
 
-	if(badNums.str().empty())
-		cout << entry.name << " " << formatted.str() << endl;
-	else
-		cerr << "input error: " << entry.name << " invalid number(s)" << badNums.str() << endl;
+	
 	return 0;
 }
