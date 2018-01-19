@@ -19,7 +19,7 @@ canvas = tk.Canvas(window,
                   bg = 'blue',
                   height = 300,
                   width = 400)
-image_file = tk.PhotoImage(file='CNN.gif')
+image_file = tk.PhotoImage(file='welcome.gif')
 image = canvas.create_image(0,0,anchor = 'center', image = image_file)
 x0, y0, x1, y1 = 50, 50, 80, 80
 line = canvas.create_line(x0, y0, x1, y1)
